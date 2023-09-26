@@ -55,7 +55,7 @@ body {
 }
 
 .btn__3 {
-    background-color: rgb(236, 12, 150);
+    background-color: blue;
 }
 
 .btn__4 {
@@ -65,7 +65,8 @@ body {
 .btn__result {
     width: 75px;
     height: 40px;
-    background-color: #b7ffe7;
+    background-color: black;
+	color: white;
     border: none;
     border-radius: 13%;
 }

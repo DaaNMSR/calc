@@ -19,3 +19,7 @@ function res(){
 	}
         document.getElementById('result').innerHTML = result;
 	}
+
+
+	
+
